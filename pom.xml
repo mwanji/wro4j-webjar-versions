@@ -46,10 +46,5 @@
       <artifactId>wro4j-extensions</artifactId>
       <version>${wro4j.version}</version>
     </dependency>
-    <dependency>
-      <groupId>org.webjars</groupId>
-      <artifactId>handlebars</artifactId>
-      <version>1.0.0-rc.4</version>
-    </dependency>
   </dependencies>
 </project>

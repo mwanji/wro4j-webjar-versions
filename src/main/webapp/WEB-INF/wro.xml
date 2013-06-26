@@ -1,6 +1,6 @@
 <groups xmlns="http://www.isdc.ro/wro">
   <group name="libs">
-    <js>webjar:handlebars.js</js> <!-- Doesn't work: multiple versions found -->
-<!--  This works   <js>webjar:1.0.0-rc.4/handlebars.js</js> -->
+    <js>webjar:handlebars.js</js>
+    <js>/index.hbs</js>
   </group>
 </groups>
